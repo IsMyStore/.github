@@ -7,5 +7,6 @@ No demo planned for the moment
 
 
 ### 🛠 Features
-> 🌈 Customization to your liking, if you want to change the colors of the buttons you can too!
+🌈 Customization to your liking, if you want to change the colors of the buttons you can too!
+
 👩‍💻 Configure your store the way you like it, we're trying to add lots of cool settings to improve the experience! 
